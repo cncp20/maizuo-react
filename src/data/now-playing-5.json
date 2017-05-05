@@ -1,0 +1,51 @@
+{
+    "status": 0,
+    "data": {
+        "films": [{
+            "id": 3627,
+            "name": "领袖1935",
+            "cover": {
+                "origin": "https://pic.maizuo.com/usr/movie/213668d90b35588199410c0e638c1bb7.jpg"
+            },
+            "poster": {
+                "origin": "https://pic.maizuo.com/usr/movie/9314bd96e20b4cc4af172da1c9d0d503.jpg",
+                "thumbnail": "https://pic.maizuo.com/usr/movie/9314bd96e20b4cc4af172da1c9d0d503.jpg?x-oss-process=image/resize,m_fixed,h_0,w_150"
+            },
+            "intro": "不怕远征难  长征掀波澜",
+            "premiereAt": 1490630400000,
+            "grade": "8.0",
+            "watchCount": 358,
+            "cinemaCount": 1,
+            "scheduleCount": 2,
+            "isPromotion": false,
+            "isNowPlaying": true,
+            "isComingSoon": "",
+            "isPresold": ""
+        }, {
+            "id": 3634,
+            "name": "海角有个五店市",
+            "cover": {
+                "origin": "https://pic.maizuo.com/usr/movie/6ae06a06a89c40fb1b159867153d1607.jpg"
+            },
+            "poster": {
+                "origin": "https://pic.maizuo.com/usr/movie/478b9f778639975448d9a0159084aede.jpg",
+                "thumbnail": "https://pic.maizuo.com/usr/movie/478b9f778639975448d9a0159084aede.jpg?x-oss-process=image/resize,m_fixed,h_0,w_150"
+            },
+            "intro": "爱情跨世纪 笑泪永铭记",
+            "premiereAt": 1491494400000,
+            "grade": "8.0",
+            "watchCount": 78,
+            "cinemaCount": 1,
+            "scheduleCount": 1,
+            "isPromotion": false,
+            "isNowPlaying": true,
+            "isComingSoon": "",
+            "isPresold": ""
+        }],
+        "page": {
+            "total": 5,
+            "current": 5
+        }
+    },
+    "msg": "ok"
+}

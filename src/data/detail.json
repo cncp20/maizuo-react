@@ -1,0 +1,95 @@
+{
+    "status": 0,
+    "data": {
+        "film": {
+            "id": 3590,
+            "name": "拆弹专家",
+            "imageryType": "1",
+            "cover": {
+                "origin": "https://pic.maizuo.com/usr/movie/d16085506bf738e6f2763b4d8d5f6cce.jpg"
+            },
+            "poster": {
+                "origin": "https://pic.maizuo.com/usr/movie/3d915dcc28097d3f30a388cdc7099920.jpg"
+            },
+            "intro": "爆炸袭击案 拆弹反恐难",
+            "synopsis": " 最新警匪动作电影《拆弹专家》（Shock Wave）将于4月份开拍，刘德华担任制作人和主演，由寰宇公司、博纳影业和刘德华的新公司梦造者联合制作，邱礼涛担任导演，投资2300万美元。片中刘德华将饰演一名卧底，追缉炸弹狂徒。预计将在2017年中期上映。之前该片曾曝出的阵容为张家辉、谢霆锋（反派）、张智霖。",
+            "premiereAt": 1493308800000,
+            "mins": 120,
+            "language": "普通话、粤语",
+            "director": "邱礼涛",
+            "actors": [{
+                "name": "刘德华"
+            }, {
+                "name": "姜武"
+            }, {
+                "name": "宋佳"
+            }],
+            "photos": [{
+                "bigPictureAddress": "https://pic.maizuo.com/usr/100003590/5f325da5705e8c361eda80a8a4c99147.jpg",
+                "pictureAddress": "https://pic.maizuo.com/usr/100003590/5f325da5705e8c361eda80a8a4c99147.jpg?x-oss-process=image/resize,m_fixed,h_0,w_300"
+            }, {
+                "bigPictureAddress": "https://pic.maizuo.com/usr/100003590/74e39ec69deaf517cca7abad31122602.jpg",
+                "pictureAddress": "https://pic.maizuo.com/usr/100003590/74e39ec69deaf517cca7abad31122602.jpg?x-oss-process=image/resize,m_fixed,h_0,w_300"
+            }, {
+                "bigPictureAddress": "https://pic.maizuo.com/usr/100003590/62c823d9e1ceaaf4b6bdb4eee2c3027c.jpg",
+                "pictureAddress": "https://pic.maizuo.com/usr/100003590/62c823d9e1ceaaf4b6bdb4eee2c3027c.jpg?x-oss-process=image/resize,m_fixed,h_0,w_300"
+            }, {
+                "bigPictureAddress": "https://pic.maizuo.com/usr/100003590/0fc48d8d7c5b2ffb73d28618cebc26c6.jpg",
+                "pictureAddress": "https://pic.maizuo.com/usr/100003590/0fc48d8d7c5b2ffb73d28618cebc26c6.jpg?x-oss-process=image/resize,m_fixed,h_0,w_300"
+            }, {
+                "bigPictureAddress": "https://pic.maizuo.com/usr/100003590/2a1e410bdfdcb0f828501ac12f80811f.jpg",
+                "pictureAddress": "https://pic.maizuo.com/usr/100003590/2a1e410bdfdcb0f828501ac12f80811f.jpg?x-oss-process=image/resize,m_fixed,h_0,w_300"
+            }, {
+                "bigPictureAddress": "https://pic.maizuo.com/usr/100003590/9602d7f87c9a9f2d52befb49979f0621.jpg",
+                "pictureAddress": "https://pic.maizuo.com/usr/100003590/9602d7f87c9a9f2d52befb49979f0621.jpg?x-oss-process=image/resize,m_fixed,h_0,w_300"
+            }, {
+                "bigPictureAddress": "https://pic.maizuo.com/usr/100003590/ec3da4fc35a0c09fd219567515f0a01e.jpg",
+                "pictureAddress": "https://pic.maizuo.com/usr/100003590/ec3da4fc35a0c09fd219567515f0a01e.jpg?x-oss-process=image/resize,m_fixed,h_0,w_300"
+            }, {
+                "bigPictureAddress": "https://pic.maizuo.com/usr/100003590/7acee706970306ee4d95e3f190f22689.jpg",
+                "pictureAddress": "https://pic.maizuo.com/usr/100003590/7acee706970306ee4d95e3f190f22689.jpg?x-oss-process=image/resize,m_fixed,h_0,w_300"
+            }, {
+                "bigPictureAddress": "https://pic.maizuo.com/usr/100003590/c58387343b04459bbbbae965f54358e4.jpg",
+                "pictureAddress": "https://pic.maizuo.com/usr/100003590/c58387343b04459bbbbae965f54358e4.jpg?x-oss-process=image/resize,m_fixed,h_0,w_300"
+            }, {
+                "bigPictureAddress": "https://pic.maizuo.com/usr/100003590/66badbea7e0dee6b8ec8620136790783.jpg",
+                "pictureAddress": "https://pic.maizuo.com/usr/100003590/66badbea7e0dee6b8ec8620136790783.jpg?x-oss-process=image/resize,m_fixed,h_0,w_300"
+            }, {
+                "bigPictureAddress": "https://pic.maizuo.com/usr/100003590/c7b125093245f006d7e6c134eab97adb.jpg",
+                "pictureAddress": "https://pic.maizuo.com/usr/100003590/c7b125093245f006d7e6c134eab97adb.jpg?x-oss-process=image/resize,m_fixed,h_0,w_300"
+            }, {
+                "bigPictureAddress": "https://pic.maizuo.com/usr/100003590/f72e363682e41e1a06b83f6768e43e29.jpg",
+                "pictureAddress": "https://pic.maizuo.com/usr/100003590/f72e363682e41e1a06b83f6768e43e29.jpg?x-oss-process=image/resize,m_fixed,h_0,w_300"
+            }, {
+                "bigPictureAddress": "https://pic.maizuo.com/usr/100003590/5a98d62581a9202fbce11b9f2f0c6b1d.jpg",
+                "pictureAddress": "https://pic.maizuo.com/usr/100003590/5a98d62581a9202fbce11b9f2f0c6b1d.jpg?x-oss-process=image/resize,m_fixed,h_0,w_300"
+            }, {
+                "bigPictureAddress": "https://pic.maizuo.com/usr/100003590/4ba7ecd7d70fd635bd4b264549cab642.jpg",
+                "pictureAddress": "https://pic.maizuo.com/usr/100003590/4ba7ecd7d70fd635bd4b264549cab642.jpg?x-oss-process=image/resize,m_fixed,h_0,w_300"
+            }, {
+                "bigPictureAddress": "https://pic.maizuo.com/usr/100003590/3476074af271d4400c3df9d1556ec769.jpg",
+                "pictureAddress": "https://pic.maizuo.com/usr/100003590/3476074af271d4400c3df9d1556ec769.jpg?x-oss-process=image/resize,m_fixed,h_0,w_300"
+            }],
+            "nation": "香港",
+            "category": "动作|悬疑|犯罪",
+            "trailer": {
+                "youkuId": "XMjY1MjMwODE5Ng=="
+            },
+            "labelType": "0",
+            "grade": "8.5",
+            "party": {
+                "likeCount": 149,
+                "dislikeCount": 5
+            },
+            "cinemaCount": 125,
+            "scheduleCount": 0,
+            "actives": [],
+            "isPromotion": true,
+            "isNowPlaying": true,
+            "isComingSoon": "",
+            "isPresold": "",
+            "isLike": true
+        }
+    },
+    "msg": "ok"
+}

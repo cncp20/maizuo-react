@@ -1,0 +1,71 @@
+{
+    "status": 0,
+    "data": {
+        "films": [{
+            "id": 3656,
+            "name": "灵狼传奇",
+            "cover": {
+                "origin": "https://pic.maizuo.com/usr/movie/e79328680d1e70be5cf6af156d0426a2.jpg"
+            },
+            "poster": {
+                "origin": "https://pic.maizuo.com/usr/movie/5bace3b8c3bf5a8bb6c34b96a81046cb.jpg",
+                "thumbnail": "https://pic.maizuo.com/usr/movie/5bace3b8c3bf5a8bb6c34b96a81046cb.jpg!150x0"
+            },
+            "intro": "大山坏猴王 白狼保村庄",
+            "premiereAt": 1493395200000,
+            "grade": "8.0",
+            "watchCount": 333,
+            "cinemaCount": 0,
+            "scheduleCount": 0,
+            "isPromotion": false,
+            "isNowPlaying": "",
+            "isComingSoon": true,
+            "isPresold": ""
+        }, {
+            "id": 3488,
+            "name": "咸鱼传奇",
+            "cover": {
+                "origin": "https://pic.maizuo.com/usr/100003488/2a84229ae00707143b6a55bf4b201eea.jpg"
+            },
+            "poster": {
+                "origin": "https://pic.maizuo.com/usr/100003488/1bb2435fbef875786c2b1397d533f8a8.jpg",
+                "thumbnail": "https://pic.maizuo.com/usr/100003488/1bb2435fbef875786c2b1397d533f8a8.jpg!150x0"
+            },
+            "intro": "咸鱼也有梦 跨越千年追",
+            "premiereAt": 1493913600000,
+            "grade": "8.0",
+            "watchCount": 0,
+            "cinemaCount": 0,
+            "scheduleCount": 0,
+            "isPromotion": false,
+            "isNowPlaying": "",
+            "isComingSoon": true,
+            "isPresold": ""
+        }, {
+            "id": 3647,
+            "name": "银河护卫队2",
+            "cover": {
+                "origin": "https://pic.maizuo.com/usr/movie/bb468eeee509991ff8eb585c6897f0c5.jpg"
+            },
+            "poster": {
+                "origin": "https://pic.maizuo.com/usr/movie/7e6e6d01c4a22643dae2b1777cab524b.jpg",
+                "thumbnail": "https://pic.maizuo.com/usr/movie/7e6e6d01c4a22643dae2b1777cab524b.jpg!150x0"
+            },
+            "intro": "星爵身世迷 终于见爹地",
+            "premiereAt": 1493913600000,
+            "grade": "8.5",
+            "watchCount": 3234,
+            "cinemaCount": 0,
+            "scheduleCount": 0,
+            "isPromotion": false,
+            "isNowPlaying": "",
+            "isComingSoon": true,
+            "isPresold": ""
+        }],
+        "page": {
+            "total": 32,
+            "current": 1
+        }
+    },
+    "msg": "ok"
+}

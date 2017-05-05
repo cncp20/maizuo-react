@@ -1,0 +1,151 @@
+{
+	"status": 0,
+	"data": {
+		"films": [{
+			"id": 3590,
+			"name": "拆弹专家",
+			"cover": {
+				"origin": "https://pic.maizuo.com/usr/movie/d16085506bf738e6f2763b4d8d5f6cce.jpg"
+			},
+			"poster": {
+				"origin": "https://pic.maizuo.com/usr/movie/3d915dcc28097d3f30a388cdc7099920.jpg",
+				"thumbnail": "https://pic.maizuo.com/usr/movie/3d915dcc28097d3f30a388cdc7099920.jpg?x-oss-process=image/resize,m_fixed,h_0,w_150"
+			},
+			"intro": "爆炸袭击案 拆弹反恐难",
+			"premiereAt": 1493308800000,
+			"grade": "8.5",
+			"watchCount": 480689,
+			"cinemaCount": 125,
+			"scheduleCount": 1688,
+			"isPromotion": true,
+			"isNowPlaying": true,
+			"isComingSoon": "",
+			"isPresold": ""
+		}, {
+			"id": 3647,
+			"name": "银河护卫队2",
+			"cover": {
+				"origin": "https://pic.maizuo.com/usr/movie/bb468eeee509991ff8eb585c6897f0c5.jpg"
+			},
+			"poster": {
+				"origin": "https://pic.maizuo.com/usr/movie/7e6e6d01c4a22643dae2b1777cab524b.jpg",
+				"thumbnail": "https://pic.maizuo.com/usr/movie/7e6e6d01c4a22643dae2b1777cab524b.jpg?x-oss-process=image/resize,m_fixed,h_0,w_150"
+			},
+			"intro": "星爵身世迷 终于见爹地",
+			"premiereAt": 1493913600000,
+			"grade": "8.5",
+			"watchCount": 21237,
+			"cinemaCount": 132,
+			"scheduleCount": 2417,
+			"isPromotion": true,
+			"isNowPlaying": true,
+			"isComingSoon": "",
+			"isPresold": ""
+		}, {
+			"id": 3364,
+			"name": "记忆大师",
+			"cover": {
+				"origin": "https://pic.maizuo.com/usr/movie/ad2e489494445db9eb1b70bf51e9d8de.jpg"
+			},
+			"poster": {
+				"origin": "https://pic.maizuo.com/usr/movie/39f1c6dedf39810780aee8b9b6c1f63a.jpg",
+				"thumbnail": "https://pic.maizuo.com/usr/movie/39f1c6dedf39810780aee8b9b6c1f63a.jpg?x-oss-process=image/resize,m_fixed,h_0,w_150"
+			},
+			"intro": "记忆可存取 麻烦一大堆",
+			"premiereAt": 1493308800000,
+			"grade": "8.5",
+			"watchCount": 321873,
+			"cinemaCount": 132,
+			"scheduleCount": 1301,
+			"isPromotion": true,
+			"isNowPlaying": true,
+			"isComingSoon": "",
+			"isPresold": ""
+		}, {
+			"id": 3609,
+			"name": "春娇救志明",
+			"cover": {
+				"origin": "https://pic.maizuo.com/usr/movie/a5da1aa2c03b111215fc9d83cde4987c.jpg"
+			},
+			"poster": {
+				"origin": "https://pic.maizuo.com/usr/movie/99d9cb24c162593f44efd5365f1aff73.jpg",
+				"thumbnail": "https://pic.maizuo.com/usr/movie/99d9cb24c162593f44efd5365f1aff73.jpg?x-oss-process=image/resize,m_fixed,h_0,w_150"
+			},
+			"intro": "感情趋平淡 唯恐不喜欢",
+			"premiereAt": 1493308800000,
+			"grade": "7.9",
+			"watchCount": 456342,
+			"cinemaCount": 131,
+			"scheduleCount": 836,
+			"isPromotion": true,
+			"isNowPlaying": true,
+			"isComingSoon": "",
+			"isPresold": ""
+		}, {
+			"id": 3631,
+			"name": "喜欢你",
+			"cover": {
+				"origin": "https://pic.maizuo.com/usr/movie/88ac8daa5a3941b69b61513193e05bee.jpg"
+			},
+			"poster": {
+				"origin": "https://pic.maizuo.com/usr/movie/66e5b065fb8ecf6d871f447f0697635a.jpg",
+				"thumbnail": "https://pic.maizuo.com/usr/movie/66e5b065fb8ecf6d871f447f0697635a.jpg?x-oss-process=image/resize,m_fixed,h_0,w_150"
+			},
+			"intro": "爱情换主角 命运中出错",
+			"premiereAt": 1493222400000,
+			"grade": "8.5",
+			"watchCount": 203839,
+			"cinemaCount": 124,
+			"scheduleCount": 819,
+			"isPromotion": true,
+			"isNowPlaying": true,
+			"isComingSoon": "",
+			"isPresold": ""
+		}, {
+			"id": 3456,
+			"name": "速度与激情8",
+			"cover": {
+				"origin": "https://pic.maizuo.com/usr/movie/f724ae8171940a23bc75593c1176ebf8.jpg"
+			},
+			"poster": {
+				"origin": "https://pic.maizuo.com/usr/movie/285b69bedff4291808174e940367659f.jpg",
+				"thumbnail": "https://pic.maizuo.com/usr/movie/285b69bedff4291808174e940367659f.jpg?x-oss-process=image/resize,m_fixed,h_0,w_150"
+			},
+			"intro": "车主要黑化 家族被击垮",
+			"premiereAt": 1492099200000,
+			"grade": "9.7",
+			"watchCount": 1764242,
+			"cinemaCount": 131,
+			"scheduleCount": 1007,
+			"isPromotion": true,
+			"isNowPlaying": true,
+			"isComingSoon": "",
+			"isPresold": ""
+		}, {
+			"id": 3663,
+			"name": "摔跤吧！爸爸",
+			"cover": {
+				"origin": "https://pic.maizuo.com/usr/movie/50fee00488817e1acda5fad62ef66456.jpg"
+			},
+			"poster": {
+				"origin": "https://pic.maizuo.com/usr/movie/0478e393c2b69bd4b97666854af44263.jpg",
+				"thumbnail": "https://pic.maizuo.com/usr/movie/0478e393c2b69bd4b97666854af44263.jpg?x-oss-process=image/resize,m_fixed,h_0,w_150"
+			},
+			"intro": "为圆摔跤梦 女儿不心疼",
+			"premiereAt": 1493913600000,
+			"grade": "9.5",
+			"watchCount": 2911,
+			"cinemaCount": 111,
+			"scheduleCount": 643,
+			"isPromotion": true,
+			"isNowPlaying": true,
+			"isComingSoon": "",
+			"isPresold": ""
+		}],
+		"page": {
+			"total": 5,
+			"current": 1
+		}
+	},
+	"msg": "ok"
+}

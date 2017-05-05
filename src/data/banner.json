@@ -1,0 +1,43 @@
+{
+  "status": 0,
+  "data": {
+    "billboards": [
+      {
+        "id": 648,
+        "name": "5.1抢影票",
+        "url": "http://m.maizuo.com/act/active/1154",
+        "imageUrl": "https://pic.maizuo.com/h5PicUpload/a8df6800dee20943e7ee629fc4c2c18d.jpg",
+        "weight": 2
+      },
+      {
+        "id": 649,
+        "name": "X幻想 岛国奇片",
+        "url": "http://cps.maizuo.com/changeUrl.htm?channelId=372&urlId=1501",
+        "imageUrl": "https://pic.maizuo.com/h5PicUpload/4cde9c244f685148f7e839585fd57f5e.jpg",
+        "weight": 9
+      },
+      {
+        "id": 650,
+        "name": "熊本熊正版周边",
+        "url": "http://m.maizuo.com/act/active/1160",
+        "imageUrl": "https://pic.maizuo.com/h5PicUpload/9dc9fce2dfe9a207744e1b4c406d7df7.jpg",
+        "weight": 1
+      },
+      {
+        "id": 651,
+        "name": "2017[如果]田馥甄巡回演唱会PLUS",
+        "url": "http://m.maizuo.com/act/active/1135",
+        "imageUrl": "https://pic.maizuo.com/h5PicUpload/c891d3346ecbda99a3370ae5b34026a1.jpg",
+        "weight": 1
+      },
+      {
+        "id": 655,
+        "name": "春娇救志明",
+        "url": "http://m.maizuo.com/act/active/1151",
+        "imageUrl": "https://pic.maizuo.com/h5PicUpload/800476b18771136fd7e2944477e85b08.jpg",
+        "weight": 2
+      }
+    ]
+  },
+  "msg": "ok"
+}
